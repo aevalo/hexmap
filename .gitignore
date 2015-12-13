@@ -194,3 +194,11 @@ FakesAssemblies/
 
 # Visual Studio 6 workspace options file
 *.opt
+
+# User specific project files
+*.user
+*.sdf
+*.opensdf
+ipch/
+Debug/
+Release/
